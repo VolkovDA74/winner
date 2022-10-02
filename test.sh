@@ -4,3 +4,5 @@ if [ "$1" == "-h" ]; then
   echo "My awesome hello world shell script!"
   exit 0
 fi
+
+echo -n "Hello world!"
